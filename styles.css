@@ -1,4 +1,4 @@
-holder{
+.holder{
     display: flexbox;
     justify-content: space-between;
     flex-direction: row;
